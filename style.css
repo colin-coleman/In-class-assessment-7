@@ -25,10 +25,25 @@ img {
   font-style: italic;
 }
 
+a:link {
+  color: blue;
+}
 
+a:visited {
+  color: darkred;
+}
 
+a:hover {
+  color: orange;
+}
 
+a:active {
+  color: green;
+}
 
+footer a:hover {
+text-decoration: none;
+}
 
 /*No touch*/
 h1, h2, nav, .cap, footer {
