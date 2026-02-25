@@ -19,6 +19,12 @@ img {
   height: auto;
 }
 
+.caption {
+  color: gray;
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+}
+
 
 
 
