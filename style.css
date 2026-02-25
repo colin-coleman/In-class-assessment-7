@@ -1,4 +1,10 @@
-/*Add your CSS here*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: URW Chancery L, cursive;
+  color: #333;
+}
 
 
 
